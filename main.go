@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/tss-tss/multi-timezone-scheduler/scheduler"
 	"log"
-	"multi-timezone-scheduler/scheduler"
 	"os"
 	"os/signal"
 	"syscall"
