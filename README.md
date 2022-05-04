@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [multi-timezone-scheduler](#github.com/tss-tss/multi-timezone-scheduler)
+- [github.com/tss-tss/multi-timezone-scheduler](#github.com/tss-tss/multi-timezone-scheduler)
   - [sample](#sample)
   - [Acknowledgment](#acknowledgment)
 
