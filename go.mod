@@ -1,4 +1,4 @@
-module multi-timezone-scheduler
+module github.com/tss-tss/multi-timezone-scheduler
 
 go 1.14
 
